@@ -14,6 +14,7 @@ public class BinaryTreeUnitTest {
         BinaryTree bt = createBinaryTree();
 
         assertTrue(!bt.isEmpty());
+        System.out.println("succ");
     }
 
     @Test
